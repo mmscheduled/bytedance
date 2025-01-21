@@ -1,2 +1,1 @@
-# bytedance
-hello world!
+hello bytedance
