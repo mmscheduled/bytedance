@@ -1,2 +1,0 @@
-# bytedance
-hello world!
